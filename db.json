@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "dfsdfds",
+      "email": "fdfsdfsd@fdsfdsf",
+      "cpf": "555555555",
+      "phone": "24992026451",
+      "zipCode": "27258485",
+      "street": "Rua F",
+      "number": "120",
+      "complement": "fdfdsfdf",
+      "neighborhood": "Jardim Belvedere",
+      "city": "Volta Redonda",
+      "state": "RJ",
+      "password": "dfdsfdsfdf",
+      "createdAt": "2026-10-02T18:08:05.035Z",
+      "id": 1
+    }
+  ],
+  "occurrences": [],
+  "votes": []
+}
